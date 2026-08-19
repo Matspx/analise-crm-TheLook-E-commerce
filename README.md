@@ -31,10 +31,10 @@ Cruzamento dos eixos para quantificar o tamanho de cada segmento e avaliar a sa�
 
 Criação de uma tabela analítica por cliente, enriquecida com dados demográficos da tabela users (nome, país, gênero, idade).
 
-Conexão direta da consulta SQL no Power BI Desktop, mantendo o processamento pesado de dados na nuvem (BigQuery).
+Conexão direta da consulta SQL no Power BI Desktop, mantendo o processamento de dados na nuvem (BigQuery).
 
 ## Insights 
-* Alto volume de clientes na categoria *Muito Inativo + Compra única*, mais de 18 mil clientes.
+* Alto volume de clientes na categoria Muito Inativo e Compra única, mais de 18 mil clientes.
 * Por volta de 2.500 clientes recorrentes inativos com mais de R$ 440 mil em receita histórica.
 * **Sugestão**: Estratégia de reativação focada em clientes recorrentes inativos.
 
